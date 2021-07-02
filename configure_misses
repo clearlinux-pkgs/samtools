@@ -1,6 +1,7 @@
-Configure miss: working ncursesw/curses.h
-Configure miss: working ncursesw.h
+Configure miss: CCHmac
 Configure miss: libdeflate.h
 Configure miss: libdeflate_deflate_compress in -ldeflate
-Configure miss: CCHmac
 Configure miss: library containing HMAC
+Configure miss: srand48_deterministic
+Configure miss: working ncursesw.h
+Configure miss: working ncursesw/curses.h
